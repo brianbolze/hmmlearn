@@ -174,7 +174,6 @@ class _BaseHMM(BaseEstimator):
         self.n_iter = n_iter
         self.tol = tol
         self.verbose = verbose
-        print("Hello World")
 
     def score_samples(self, X, lengths=None):
         """Compute the log probability under the model and compute posteriors.
