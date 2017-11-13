@@ -22,8 +22,8 @@ from setuptools import setup, Extension
 DISTNAME = "hmmlearn"
 DESCRIPTION = __doc__
 LONG_DESCRIPTION = open("README.rst").read()
-MAINTAINER = "Sergei Lebedev"
-MAINTAINER_EMAIL = "superbobry@gmail.com"
+MAINTAINER = "Brian Bolze"
+MAINTAINER_EMAIL = "brianbolze@gmail.com"
 LICENSE = "new BSD"
 
 CLASSIFIERS = [
